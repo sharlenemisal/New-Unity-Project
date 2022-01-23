@@ -49,10 +49,33 @@ namespace Cainos.PixelArtTopDown_Basic
     }
 }
 
-private void OnTrigger2D(Collider2D other)
-{
-    if(other.gameObject.CompareTag("Collectables"))
-    {
-        Destroy(other.gameObject);
-    }
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
